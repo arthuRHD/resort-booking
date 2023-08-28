@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!ojdbc7_g.jar
 *.war
 *.nar
 *.ear
